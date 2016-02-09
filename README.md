@@ -23,3 +23,11 @@ here meant to be the central place to keep a track of my learning course (codes,
 
 ##### Hierarchical Dirichlet Process, HDP
 > - a non-parametric bayesian method (note the missing number of requested topics)
+
+### Tutorials
+source: [如何成为阿里巴巴算法工程师？](https://www.zhihu.com/question/23724645)
+算法工程师，需要机器学习及其相关数学，以及特定方向（数据挖掘，自然语言处理，图像，语音等）的领域基础知识。
+推荐的资料:
+> - (a). 书籍：《统计学习方法》，《Pattern Recognition and Machine Learning》，《The Elements of Statistical Learning》，《凸优化》
+> - (b). 视频教程：Andrew Ng的Coursera公开课《Machine Learning》，台湾大学林轩田的《机器学习基石》和《机器学习技法》，Stanford公开课 CS229 《Machine Learning》。
+> - (c). 机器学习，数据挖掘等领域的顶级会议的paper。
